@@ -61,7 +61,6 @@ Commit your changes: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature-name.
 Open a pull request.
 
-
 2.Contact
 If you have any questions or suggestions, feel free to contact me.
 
