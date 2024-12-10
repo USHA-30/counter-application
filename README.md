@@ -35,9 +35,6 @@ Reset: Click the "Reset" button to reset the counter to zero.
 
 
 Project Structure:
-bash
-Copy code
-counter-application/
 <br>
 ├── index.html   # Main HTML file 
 <br>
