@@ -44,13 +44,17 @@ Project Structure:
 
 
 Technologies Used
+<br>
 HTML: For the structure of the application.
+<br>
 CSS: For styling the application.
+<br>
 JavaScript: For interactivity and logic.
 
 Contributing:
+<br>
 Contributions are welcome! Please follow these steps:
-
+<br>
 1.Fork the repository.
 Create a new branch: git checkout -b feature-name.
 Commit your changes: git commit -m 'Add some feature'.
