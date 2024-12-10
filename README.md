@@ -53,7 +53,9 @@ JavaScript: For interactivity and logic.
 
 Contributing:
 <br>
+<br>
 Contributions are welcome! Please follow these steps:
+<br>
 <br>
 1.Fork the repository.
 Create a new branch: git checkout -b feature-name.
