@@ -21,7 +21,7 @@ Basic knowledge of HTML, CSS, and JavaScript Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/counter-application.git
+git clone https://github.com/USHA-30/counter-application.git
 
 Navigate to the project folder:
 bash
