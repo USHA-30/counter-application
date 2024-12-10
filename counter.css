@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(90, 62, 214, 0.63);
+}
+.main{
+    background-color: rgba(230, 207, 8, 0.664);
+    text-align: center;
+    margin: 150px 500px 150px 500px;
+    padding : 10px 10px 10px 10px;
+    display: block;
+    border: 2px solid black;
+    
+}
+
+.counter-value{
+    font-weight:800;
+    font-size:80px;
+}
+
+.btn1{
+margin:5px;
+border-radius: 10px ;
+size: 3px;
+}
+
+.btn2{
+margin:5px;
+border-radius: 10px ;
+size: 3px;
+}
+
+.btn3{
+margin:5px;
+border-radius: 10px ;
+size: 3px;
+}
+
+
+
+
+
