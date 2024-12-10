@@ -38,8 +38,10 @@ Project Structure:
 bash
 Copy code
 counter-application/
-├── index.html   # Main HTML file
-├── counter.css    # CSS styles
+├── index.html   # Main HTML file 
+<br>
+├── counter.css    # CSS styles 
+<br>
 └── counter.js    # JavaScript functionality
 
 
